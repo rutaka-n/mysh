@@ -16,11 +16,11 @@ make
 
 ### TODO
 
-[x] add makefile
-[ ] print the prompt
-[ ] run command from /bin
-[ ] pass arguments to programm
-[ ] pass environment to programm
-[ ] support PATH enviroment variable
-[ ] support `>` and `<`
-[ ] support pipe
+[x] add makefile<br>
+[ ] print the prompt<br>
+[ ] run command from /bin<br>
+[ ] pass arguments to programm<br>
+[ ] pass environment to programm<br>
+[ ] support PATH enviroment variable<br>
+[ ] support `>` and `<`<br>
+[ ] support pipe<br>
